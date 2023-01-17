@@ -1,4 +1,4 @@
-### Hi there, I'm Melissa 👋
+# Hi there, I'm Melissa 👋
 
 ## 🔭 I’m currently working on ...
 I graduated from NJIT with my bachelor’s in Information Technology. After my first coding class, I became interested in programming and decided to do my specialization in web applications. I also love  art and psychology so I decided to minor in Human Computer Interaction and join a lab on campus researching. I graduated during the pandemic so I applied to a variety of IT jobs, until I found my current employer where I work as a developer
