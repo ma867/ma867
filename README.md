@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Melissa 👋
+
+## 🔭 I’m currently working on ...
+I graduated from NJIT with my bachelor’s in Information Technology. After my first coding class, I became interested in programming and decided to do my specialization in web applications. I also love  art and psychology so I decided to minor in Human Computer Interaction and join a lab on campus researching. I graduated during the pandemic so I applied to a variety of IT jobs, until I found my current employer where I work as a developer
+
+## 🌱 I’m currently learning ...
+I have been working on
+
+## 📫 How to reach me ...
+Feel free to message me through my LinkedIn profile, linked on the left tab.
+
 
 <!--
 **ma867/ma867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
